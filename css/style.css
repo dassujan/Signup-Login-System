@@ -1,0 +1,29 @@
+/* css variables */
+/* :root {
+    --primary: #0d6efd;
+    --white: #fff;
+  } */
+  
+  html,
+  body {
+    height: 100%;
+  }
+  .container {
+    height: 100%;
+  }
+  .card {
+    width: 500px;
+    height: 370px;
+  }
+  /* .input-group > span {
+    background-color: var(--primary);
+    border: 0;
+    color: var(--white);
+  } */
+  input:focus {
+    outline: 0 0 0 0 !important;
+    box-shadow: 0 0 0 0 !important;
+  }
+  .login_card{
+      height: 320px;
+  }
